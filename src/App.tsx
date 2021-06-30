@@ -8,7 +8,7 @@ function App(): JSX.Element {
       <AppHeader title={"My Attendance Tracker app"} />
       <AttendanceTracker />
       <CopyrightNotice
-        author={"Jimminy Cricket"}
+        author={""}
         year={new Date().getFullYear()}
       />
     </>
